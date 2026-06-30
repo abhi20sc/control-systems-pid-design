@@ -51,3 +51,11 @@ Designed a lead compensator to achieve a target phase margin of 55°. Computed t
 ## Module Context
 
 **ES3C8 — Control Systems**, University of Warwick, Year 3 (2025–26)
+
+---
+
+## License & Attribution
+
+This is a **group coursework project** co-authored with other University of Warwick students; it is published here for portfolio and reference purposes only. My own contribution is the **full controller design for Part B (PID) and Part C (lead compensator)**.
+
+Because the project is **jointly owned**, no blanket open-source licence is applied. My individual contributions may be reused with attribution; all other material remains the property of the respective co-authors. Please get in touch before reusing any part of this work.
